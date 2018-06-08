@@ -1,0 +1,36 @@
+
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5. 
+[LightGBM] [Warning] bagging_freq is set=10, subsample_freq=1 will be ignored. Current value: bagging_freq=10. 
+[LightGBM] [Warning] min_sum_hessian_in_leaf is set=11, min_child_weight=0.001 will be ignored. Current value: min_sum_hessian_in_leaf=11. 
+[LightGBM] [Warning] min_data_in_leaf is set=1, min_data=1 will be ignored. Current value: min_data_in_leaf=1. 
+[LightGBM] [Warning] min_data_in_leaf is set with min_data=1, min_child_samples=20 will be ignored. Current value: min_data_in_leaf=1. 
+[LightGBM] [Warning] bagging_fraction is set=0.5, subsample=1.0 will be ignored. Current value: bagging_fraction=0.5. 
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5.
+ [LightGBM] [Warning] bagging_freq is set=10, subsample_freq=1 will be ignored. Current value: bagging_freq=10. 
+ [LightGBM] [Warning] min_sum_hessian_in_leaf is set=11, min_child_weight=0.001 will be ignored. Current value: min_sum_hessian_in_leaf=11. 
+ [LightGBM] [Warning] min_data_in_leaf is set=1, min_data=1 will be ignored. Current value: min_data_in_leaf=1. 
+ [LightGBM] [Warning] min_data_in_leaf is set with min_data=1, min_child_samples=20 will be ignored. Current value: min_data_in_leaf=1.
+ [LightGBM] [Warning] bagging_fraction is set=0.5, subsample=1.0 will be ignored. Current value: bagging_fraction=0.5. 
+ [LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5. 
+ [LightGBM] [Warning] bagging_freq is set=10, subsample_freq=1 will be ignored. Current value: bagging_freq=10. 
+ [LightGBM] [Warning] min_sum_hessian_in_leaf is set=11, min_child_weight=0.001 will be ignored. Current value: min_sum_hessian_in_leaf=11.
+ [LightGBM] [Warning] min_data_in_leaf is set=1, min_data=1 will be ignored. Current value: min_data_in_leaf=1. 30 0.7003788069466064 [
+ LightGBM] [Warning] min_data_in_leaf is set with min_data=1, min_child_samples=20 will be ignored. Current value: min_data_in_leaf=1.
+ [LightGBM] [Warning] bagging_fraction is set=0.5, subsample=1.0 will be ignored. Current value: bagging_fraction=0.5. 
+ [LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5.
+ [LightGBM] [Warning] bagging_freq is set=10, subsample_freq=1 will be ignored. Current value: bagging_freq=10.
+ [LightGBM] [Warning] min_sum_hessian_in_leaf is set=11, min_child_weight=0.001 will be ignored. Current value: min_sum_hessian_in_leaf=11.
+ [LightGBM] [Warning] min_data_in_leaf is set=1, min_data=1 will be ignored. Current value: min_data_in_leaf=1.
+ [LightGBM] [Warning] min_data_in_leaf is set with min_data=1, min_child_samples=20 will be ignored. Current value: min_data_in_leaf=1. 
+ [LightGBM] [Warning] bagging_fraction is set=0.5, subsample=1.0 will be ignored. Current value: bagging_fraction=0.5. 
+ [LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5.
+ [LightGBM] [Warning] bagging_freq is set=10, subsample_freq=1 will be ignored. Current value: bagging_freq=10.
+ [LightGBM] [Warning] min_sum_hessian_in_leaf is set=11, min_child_weight=0.001 will be ignored. Current value: min_sum_hessian_in_leaf=11.
+ [LightGBM] [Warning] min_data_in_leaf is set=1, min_data=1 will be ignored. Current value: min_data_in_leaf=1. [LightGBM] [Warning] min_data_in_leaf is set with min_data=1, min_child_samples=20 will be ignored. Current value: min_data_in_leaf=1. [LightGBM] [Warning] bagging_fraction is set=0.5, subsample=1.0 will be ignored. Current value: bagging_fraction=0.5. [LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5. [LightGBM] [Warning] bagging_freq is set=10, subsample_freq=1 will be ignored. Current value: bagging_freq=10. 
+ [LightGBM] [Warning] min_sum_hessian_in_leaf is set=11, min_child_weight=0.001 will be ignored. Current value: min_sum_hessian_in_leaf=11. [LightGBM] [Warning] min_data_in_leaf is set=1, min_data=1 will be ignored. Current value: min_data_in_leaf=1.
+ ******************** PARAS ******************** 
+ bagging_fraction bagging_freq boosting_type feature_fraction \ 
+ 0 0.8 5 gbdt 0.2319 2 0.8 5 gbdt 0.2319 24 0.5 10 gbdt 0.2319 28 0.5 10 gbdt 0.5000 26 0.5 10 gbdt 0.2319 
+ num_leaves objective score 0 5 regression 0.699502 2 9 regression 0.699908 24 5 regression 0.700132 28 5 regression 0.700148 26 9 regression 0.700318 
+ ********FIT********:0.28 minute
+
